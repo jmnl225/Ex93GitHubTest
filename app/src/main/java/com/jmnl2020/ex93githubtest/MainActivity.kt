@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         var a:Int = 10
         var b:Double = 3.14
         
-        
+        //주석
 
     }
 }
